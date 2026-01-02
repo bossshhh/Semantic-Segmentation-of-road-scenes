@@ -41,7 +41,7 @@ Original Cityscapes label IDs were **remapped to 19 training classes**, with unu
 
 ### Model Training
 
-* Framework: **PyTorch**
+* Framework: **PyTorch**, **torchvision**
 * Loss function: **Cross-Entropy Loss** with ignored void labels
 * Optimizer: **Adam**
 * Training performed on GPU when available (Kaggle environment)
