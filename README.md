@@ -4,6 +4,10 @@ This project explores **semantic segmentation of road scenes** using deep learni
 
 The project was developed as part of the **Introduction to Neural Networks** course and focuses on building the full segmentation pipeline from data loading and preprocessing to model training and evaluation.
 
+**Running the Project on Kaggle**
+
+To run this project on Kaggle, the first step is to download the cityscapes-semantic-dataset from the Kaggle Datasets section. After adding the dataset to your Kaggle notebook, make sure it is available in the notebook’s input directory. Once the dataset is attached, you can run the notebook cells in order without modification, as the data loading and preprocessing steps are configured to work with the downloaded dataset structure.
+
 ---
 
 ## Project Overview
